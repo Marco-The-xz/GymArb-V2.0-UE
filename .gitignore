@@ -3,6 +3,7 @@ Binaries/
 DerivedDataCache/
 Intermediate/
 Saved/
+Build/
 
 # Visual Studio / Rider / IDE
 .vs/
@@ -21,8 +22,7 @@ Saved/
 .DS_Store
 Thumbs.db
 
-# Logs
+# Logs and temp files
 *.log
-
-# Optional: ignore packaged builds
-Build/
+*.tmp
+~$*
